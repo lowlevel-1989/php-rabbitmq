@@ -17,4 +17,4 @@ $ ./composer.phar require php-amqplib/php-amqplib
 ~~~
 
 ### 2.- DEMO (requiere RabbitMQ)
-![](demo.png) 
+![](https://raw.githubusercontent.com/formatcom/php-rabbitmq/master/demo.png) 
