@@ -13,7 +13,7 @@ Zend Engine v3.4.0, Copyright (c) Zend Technologies
 ### 0.- PROTOCOLO AMQP
 ![](amqp-about.png)
 
-### 1.- Instalar dependencias
+### 1.- DEPENDENCIAS
 ~~~bash
 $ curl -sS https://getcomposer.org/installer | php 
 $ ./composer.phar require php-amqplib/php-amqplib
