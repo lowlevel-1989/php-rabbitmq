@@ -10,6 +10,9 @@ Zend Engine v3.4.0, Copyright (c) Zend Technologies
     with Zend OPcache v7.4.21, Copyright (c), by Zend Technologies
 ~~~
 
+### 0.- PROTOCOLO AMQP
+![](amqp-about.png)
+
 ### 1.- Instalar dependencias
 ~~~bash
 $ curl -sS https://getcomposer.org/installer | php 
